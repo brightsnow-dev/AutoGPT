@@ -2,6 +2,7 @@ import contextlib
 import logging
 from typing import Any, Optional
 
+
 import autogpt_libs.auth.models
 import fastapi
 import fastapi.responses
